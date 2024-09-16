@@ -1,0 +1,12 @@
+# Requirements for Climate Neural Network Project
+# Python version: 3.9
+
+tensorflow==2.9.1
+numpy==1.23.5
+pandas==1.5.3
+matplotlib==3.7.1
+xarray==2023.1.0
+scikit-learn==1.2.2
+netCDF4==1.6.2
+tensorflow-probability==0.19.0
+jupyter==1.0.0
